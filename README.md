@@ -1,5 +1,5 @@
 # Luna Game Engine
-3D Game engine built by Belal Mohamed following [Game Engine Series]("https://www.youtube.com/@GameEngineSeries") tutorials
+3D Game engine built by Belal Mohamed
 
 The engine comes with C# wpf editor
 
