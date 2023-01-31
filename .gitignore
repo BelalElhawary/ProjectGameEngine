@@ -1,3 +1,6 @@
+engine-build-release/
+figma-project/figma-export/
+
 # User-specific files
 *.rsuser
 *.suo
@@ -325,6 +328,7 @@ __pycache__/
 # Cake - Uncomment if you are using it
 # tools/**
 # !tools/packages.config
+
 
 # Tabs Studio
 *.tss
